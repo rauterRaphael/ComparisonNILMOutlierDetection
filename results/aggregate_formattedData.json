@@ -1,0 +1,330 @@
+[
+ {
+  "application": null,
+  "data": [
+   {
+    "dataset": "REFIT3 1",
+    "if": {
+     "absApplOut": 177627,
+     "relApplOut": 0.1,
+     "absPowOut": 69739,
+     "relPowOut": 0.58,
+     "relPowerOutValGreater25": 0.34
+    },
+    "lof": {
+     "absApplOut": 2465,
+     "relApplOut": 0.0,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.01
+    }
+   },
+   {
+    "dataset": "REFIT3 10",
+    "if": {
+     "absApplOut": 355511,
+     "relApplOut": 0.14,
+     "absPowOut": 143466,
+     "relPowOut": 0.69,
+     "relPowerOutValGreater25": 0.46
+    },
+    "lof": {
+     "absApplOut": 4755,
+     "relApplOut": 0.0,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.01
+    }
+   },
+   {
+    "dataset": "REFIT3 12",
+    "if": {
+     "absApplOut": 387490,
+     "relApplOut": 0.1,
+     "absPowOut": 166382,
+     "relPowOut": 0.71,
+     "relPowerOutValGreater25": 0.31
+    },
+    "lof": {
+     "absApplOut": 6564,
+     "relApplOut": 0.0,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.02
+    }
+   },
+   {
+    "dataset": "REFIT3 13",
+    "if": {
+     "absApplOut": 431409,
+     "relApplOut": 0.12,
+     "absPowOut": 214477,
+     "relPowOut": 0.72,
+     "relPowerOutValGreater25": 0.36
+    },
+    "lof": {
+     "absApplOut": 9189,
+     "relApplOut": 0.01,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.02
+    }
+   },
+   {
+    "dataset": "REFIT3 14",
+    "if": {
+     "absApplOut": 512907,
+     "relApplOut": 0.11,
+     "absPowOut": 240179,
+     "relPowOut": 0.73,
+     "relPowerOutValGreater25": 0.34
+    },
+    "lof": {
+     "absApplOut": 10896,
+     "relApplOut": 0.0,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.01
+    }
+   },
+   {
+    "dataset": "REFIT3 15",
+    "if": {
+     "absApplOut": 601182,
+     "relApplOut": 0.15,
+     "absPowOut": 337410,
+     "relPowOut": 0.73,
+     "relPowerOutValGreater25": 0.45
+    },
+    "lof": {
+     "absApplOut": 13323,
+     "relApplOut": 0.0,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.01
+    }
+   },
+   {
+    "dataset": "REFIT3 16",
+    "if": {
+     "absApplOut": 641050,
+     "relApplOut": 0.12,
+     "absPowOut": 386425,
+     "relPowOut": 0.74,
+     "relPowerOutValGreater25": 0.3
+    },
+    "lof": {
+     "absApplOut": 14623,
+     "relApplOut": 0.0,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.01
+    }
+   },
+   {
+    "dataset": "REFIT3 17",
+    "if": {
+     "absApplOut": 680485,
+     "relApplOut": 0.11,
+     "absPowOut": 445986,
+     "relPowOut": 0.73,
+     "relPowerOutValGreater25": 0.38
+    },
+    "lof": {
+     "absApplOut": 15969,
+     "relApplOut": 0.0,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.01
+    }
+   },
+   {
+    "dataset": "REFIT3 18",
+    "if": {
+     "absApplOut": 718651,
+     "relApplOut": 0.11,
+     "absPowOut": 464267,
+     "relPowOut": 0.72,
+     "relPowerOutValGreater25": 0.34
+    },
+    "lof": {
+     "absApplOut": 17231,
+     "relApplOut": 0.0,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.01
+    }
+   },
+   {
+    "dataset": "REFIT3 19",
+    "if": {
+     "absApplOut": 735135,
+     "relApplOut": 0.09,
+     "absPowOut": 537488,
+     "relPowOut": 0.73,
+     "relPowerOutValGreater25": 0.26
+    },
+    "lof": {
+     "absApplOut": 18416,
+     "relApplOut": 0.01,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.02
+    }
+   },
+   {
+    "dataset": "REFIT3 2",
+    "if": {
+     "absApplOut": 786631,
+     "relApplOut": 0.09,
+     "absPowOut": 594768,
+     "relPowOut": 0.73,
+     "relPowerOutValGreater25": 0.26
+    },
+    "lof": {
+     "absApplOut": 20753,
+     "relApplOut": 0.0,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.01
+    }
+   },
+   {
+    "dataset": "REFIT3 20",
+    "if": {
+     "absApplOut": 848602,
+     "relApplOut": 0.16,
+     "absPowOut": 643502,
+     "relPowOut": 0.73,
+     "relPowerOutValGreater25": 0.6
+    },
+    "lof": {
+     "absApplOut": 22714,
+     "relApplOut": 0.01,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.01
+    }
+   },
+   {
+    "dataset": "REFIT3 3",
+    "if": {
+     "absApplOut": 1097232,
+     "relApplOut": 0.17,
+     "absPowOut": 742966,
+     "relPowOut": 0.73,
+     "relPowerOutValGreater25": 0.49
+    },
+    "lof": {
+     "absApplOut": 25938,
+     "relApplOut": 0.0,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.01
+    }
+   },
+   {
+    "dataset": "REFIT3 4",
+    "if": {
+     "absApplOut": 1245506,
+     "relApplOut": 0.12,
+     "absPowOut": 797823,
+     "relPowOut": 0.73,
+     "relPowerOutValGreater25": 0.38
+    },
+    "lof": {
+     "absApplOut": 28077,
+     "relApplOut": 0.0,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.0
+    }
+   },
+   {
+    "dataset": "REFIT3 5",
+    "if": {
+     "absApplOut": 1500404,
+     "relApplOut": 0.16,
+     "absPowOut": 835690,
+     "relPowOut": 0.71,
+     "relPowerOutValGreater25": 0.53
+    },
+    "lof": {
+     "absApplOut": 30588,
+     "relApplOut": 0.0,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.01
+    }
+   },
+   {
+    "dataset": "REFIT3 6",
+    "if": {
+     "absApplOut": 1583510,
+     "relApplOut": 0.1,
+     "absPowOut": 932322,
+     "relPowOut": 0.73,
+     "relPowerOutValGreater25": 0.28
+    },
+    "lof": {
+     "absApplOut": 33022,
+     "relApplOut": 0.0,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.01
+    }
+   },
+   {
+    "dataset": "REFIT3 7",
+    "if": {
+     "absApplOut": 1752504,
+     "relApplOut": 0.13,
+     "absPowOut": 1010143,
+     "relPowOut": 0.72,
+     "relPowerOutValGreater25": 0.45
+    },
+    "lof": {
+     "absApplOut": 35228,
+     "relApplOut": 0.0,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.01
+    }
+   },
+   {
+    "dataset": "REFIT3 8",
+    "if": {
+     "absApplOut": 1919611,
+     "relApplOut": 0.14,
+     "absPowOut": 1083989,
+     "relPowOut": 0.73,
+     "relPowerOutValGreater25": 0.45
+    },
+    "lof": {
+     "absApplOut": 38502,
+     "relApplOut": 0.0,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.01
+    }
+   },
+   {
+    "dataset": "REFIT3 9",
+    "if": {
+     "absApplOut": 2043190,
+     "relApplOut": 0.16,
+     "absPowOut": 1120789,
+     "relPowOut": 0.73,
+     "relPowerOutValGreater25": 0.47
+    },
+    "lof": {
+     "absApplOut": 42329,
+     "relApplOut": 0.0,
+     "absPowOut": 0,
+     "relPowOut": 0.0,
+     "relPowerOutValGreater25": 0.01
+    }
+   }
+  ]
+ }
+]
