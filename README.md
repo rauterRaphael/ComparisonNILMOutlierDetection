@@ -1,5 +1,5 @@
 # Comparison of Outlier Detection Algorithms on NILM Datasets
-This repository contains the simulation script used for the bachelor thesis "Comparison of Outlier Detection Algorithms in NILM Datasets". It also contains the corresponding Conda environment and the results of the simulations.
+This repository contains the simulation script used for the bachelor thesis "Comparison of Outlier Detection Algorithms in NILM Datasets". It also contains the corresponding Conda environment and the results of the simulations. The REFIT data set can be downloaded from the following link: https://www.refitsmarthomes.org/datasets/
 
 ## Experiment setup:
 - 5-fold cross-validation
